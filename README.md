@@ -1,2 +1,2 @@
 # Cheapmart
-Project UAS Website E-Commerce
+Website E-Commerce dengan menggunakan bootstrap
